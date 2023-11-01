@@ -1,0 +1,134 @@
+field_name	field_label	Related_CDE_at_NIH_CDE_Repository	ICD_code	HPO_ID	HPO_label	Mondo_ID	Mondo_label	MAxO_ID	MAxO_label	ICD_label
+auto_alopecia_status	Alopecia areata	Scarring chronic alopecia PhenX	ICD9:704.01	HP:0002232	Patchy alopecia	MONDO:0005340	alopecia areata			Alopecia areata
+auto_arthropathy_status	Arthropathy	Joints muscles elbows assessment status	ICD10:M00-M02	HP:0001367	Abnormal joint morphology	MONDO:0006816	arthropathy			
+auto_atopic_status	Atopic dermatitis/eczema	Atopic allergy disorder condition diagnosed information status	ICD10:L20.81	HP:0001047	Atopic dermatitis	MONDO:0004980	atopic eczema			
+auto_celiac_status	Celiac disease	Celiac disease gluten sensitivity diagnosis ever indicator	ICD10:K90.0	HP:0002608	Celiac disease	MONDO:0005130	celiac disease			Coeliac disease
+auto_dermatomyositis_status	Dermatomyositis		ICD10:M33.90			MONDO:0016367	dermatomyositis			
+auto_graves_status	Graves disease		ICD10:E05.0	HP:0100647	Graves disease	MONDO:0005364	Graves disease			Thyrotoxicosis with diffuse goitre
+auto_hashimoto_status	Hashimoto's thyroiditis	Thyroid condition type	ICD9:245.2	HP:0000872	Hashimoto thyroiditis	MONDO:0007699	Hashimoto thyroiditis			Chronic lymphocytic thyroiditis
+auto_hemol_anemia_status	Hemolytic anemia	Anemia	ICD10:D55.D59	HP:0001878	Hemolytic anemia	MONDO:0003664	hemolytic anemia			
+auto_herpetiformis_status	Dermatitis herpetiformis		ICD9:694.0			MONDO:0015614	dermatitis herpetiformis			Dermatitis herpetiformis
+auto_hidradenitis_status	Hidradenitis suppurativa		ICD10:L73.2	HP:0040154	Acne inversa	MONDO:0006559	hidradenitis suppurativa			Hidradenitis suppurativa
+auto_kawasaki_status	Kawasaki disease		ICD10:M30.3			MONDO:0012727	mucocutaneous lymph node syndrome			Mucocutaneous lymph node syndrome [Kawasaki]
+auto_menieres_status	Meniere's disease		ICD9:386.0			MONDO:0007972	Meniere disease			Meniere's disease
+auto_myositis_status	Myositis	Myositis	ICD9:728.9	HP:0100614	Myositis	MONDO:0021167	myositis			Unspecified disorder of muscle, ligament, and fascia
+auto_narcolepsy_status	Narcolepsy		ICD9:347.00	HP:0030050	Narcolepsy	MONDO:0021107	narcolepsy			Narcolepsy, without cataplexy
+auto_neutropenia_status	Neutropenia		ICD10:D70.9	HP:0001875	Neutropenia	MONDO:0001475	neutropenia			
+auto_planus_status	Lichen planus		ICD9:697.0	HP:0031452	Lichenoid skin lesion	MONDO:0006572	lichen planus			Lichen planus
+auto_psoriatic_arth_status	Psoriatic arthritis		ICD10:L40.5			MONDO:0011849	psoriatic arthritis			Arthropathic psoriasis
+auto_rh_arthritis_status	Rheumatoid arthritis		ICD9:714.0	HP:0001370	Rheumatoid arthritis	MONDO:0008383	rheumatoid arthritis			Rheumatoid arthritis
+auto_rls_status	Restless legs syndrome		ICD9:333.94	HP:0012452	Restless legs	MONDO:0005391	restless legs syndrome			Restless legs syndrome (RLS)
+auto_sarcoidosis_status	Sarcoidosis		ICD10:D86.1			MONDO:0019338	sarcoidosis			Sarcoidosis of lymph nodes
+auto_sclerosus_status	Lichen sclerosus		ICD10:L90.0			MONDO:0007899	lichen sclerosus et atrophicus			Lichen sclerosus et atrophicus
+auto_sle_status	Systemic lupus erythematosus		ICD10:M32	HP:0002725	Systemic lupus erythematosus	MONDO:0007915	systemic lupus erythematosus			Systemic lupus erythematosus
+auto_t1_diabetes_status	Type 1 Diabetes		ICD10:E10	HP:0100651	Type I diabetes mellitus	MONDO:0005147	type 1 diabetes mellitus			Insulin-dependent diabetes mellitus
+auto_thrombo_purpura_status	Thrombocytopenic purpura		ICD10:D69.3	HP:0001973	Autoimmune thrombocytopenia	MONDO:0043768	thrombocytopenic purpura			Idiopathic thrombocytopenic purpura
+cardiac_other_status	[cardiac_other_specify]		ICD9:429.2	HP:0001626	Abnormality of the cardiovascular system	MONDO:0004995	cardiovascular disease			Cardiovascular disease, unspecified
+cardiac_asd_age	ASD		ICD10:Q21.1	HP:0001631	Atrial septal defect	MONDO:0006664	atrial septal defect			Atrial septal defect
+cardiac_cardiomyopathy_status	Cardiomyopathy		ICD9:425	HP:0001638	Cardiomyopathy	MONDO:0004994	cardiomyopathy			Cardiomyopathy
+cardiac_congestive_status	Congestive heart failure		ICD10:I50.0	HP:0001635	Congestive heart failure	MONDO:0005009	congestive heart failure			Congestive heart failure
+cardiac_hypertension_status	Hypertension		ICD10:I15	HP:0000822	Hypertension	MONDO:0005044	hypertensive disorder			Secondary hypertension
+cardiac_mi_status	Heart attack		ICD10:I22	HP:0001658	Myocardial infarction	MONDO:0005068	myocardial infarction			Subsequent myocardial infarction
+cardiac_pda_age	PDA		ICD10:Q25.0	HP:0001643	Patent ductus arteriosus	MONDO:0011827	patent ductus arteriosus			Patent ductus arteriosus
+cardiac_pfo_age	PFO		ICD10:Q21.1	HP:0001655	Patent foramen ovale	MONDO:0020439	patent foramen ovale			Atrial septal defect
+cardiac_tof_age	ToF		ICD9:745.2	HP:0001636	Tetralogy of Fallot	MONDO:0008542	tetralogy of fallot			Tetralogy of fallot
+cardiac_vsd_age	VSD		ICD10:Q21.0	HP:0001629	Ventricular septal defect	MONDO:0002070	ventricular septal defect			Ventricular septal defect
+develop_expressive_status	Expressive language disorder		ICD9:315.31			MONDO:0001276	expressive language disorder	10-Oct-2023 Data Modeling call said a MAxO term is not needed here.		Expressive language disorder
+develop_mixed_status	Mixed receptive-expressive language disorder		ICD9:315.32			MONDO:0001568	mixed receptive-expressive language disorder			Mixed receptive-expressive language disorder
+ds_diagnosis	Down syndrome diagnosis		ICD9:758.0			MONDO:0008608	Down syndrome			Down's syndrome
+endo_congen_diabetes_status	Congenital, or early infant diabetes		N/A ICD10:P70.2			MONDO:0011507 MONDO:0016391	diabetes mellitus, congenital autoimmune neonatal diabetes mellitus			
+endo_diabetes_conditions	Please specify diabetes type		ICD10:E08-E13	HP:0000819	Diabetes mellitus	MONDO:0005015	diabetes mellitus			
+endo_graves_status	Graves disease		ICD10:E05.0	HP:0100647	Graves disease	MONDO:0005364	Graves disease			Thyrotoxicosis with diffuse goitre
+endo_hashimoto_status	Hashimoto's thyroiditis		ICD9:245.2	HP:0000872	Hashimoto thyroiditis	MONDO:0007699	Hashimoto thyroiditis			Chronic lymphocytic thyroiditis
+endo_hyperthyroid_status	Hyperthyroidism		ICD10:E05.9	HP:0000836	Hyperthyroidism	MONDO:0004425	hyperthyroidism			Thyrotoxicosis, unspecified
+endo_hypothyroid_status	Hypothyroidism		ICD10:E03.9	HP:0000821	Hypothyroidism	MONDO:0005420	hypothyroidism			Hypothyroidism, unspecified
+endo_t1_diabetes_status	Type I (juvenile diabetes)		ICD10:E10	HP:0100651	Type I diabetes mellitus	MONDO:0005147	type 1 diabetes mellitus			Insulin-dependent diabetes mellitus
+endo_t2_diabetes_status	Type II (adult onset)		ICD10:E11	HP:0005978	Type II diabetes mellitus	MONDO:0005148	type 2 diabetes mellitus			Non-insulin-dependent diabetes mellitus
+endo_vitaminb_status	Vitamin B deficiency		ICD10:E53.9	HP:0004340	Abnormality of vitamin B metabolism	MONDO:0042976	vitamin B deficiency			Vitamin B deficiency, unspecified
+ent_etd_status	Eustachian Tube Dysfunction		ICD10:H68	HP:0040115	Abnormality of the Eustachian tube	MONDO:0004866	eustachian tube disease			Eustachian salpingitis and obstruction
+ent_hearing_status	Hearing loss		ICD10:H90	HP:0000365	Hearing impairment	MONDO:0005365	hearing loss disorder			Conductive and sensorineural hearing loss
+ent_laryngo_status	Laryngomalacia		ICD10:Q31.5	HP:0001601	Laryngomalacia	MONDO:0007878	congenital laryngomalacia			
+ent_osa_status	Obstructive Sleep Apnea		ICD9:327.23	HP:0002870	Obstructive sleep apnea	MONDO:0007147	obstructive sleep apnea syndrome			Obstructive sleep apnea (adult)(pediatric)
+ent_rhinitis_status	Chronic rhinitis		ICD9:472.0	HP:0002257	Chronic rhinitis	MONDO:0004514	chronic rhinitis			Chronic rhinitis
+eye_amblyopia	Amblyopia		ICD10:H53.00	HP:0000646	Amblyopia	MONDO:0001020	amblyopia (disease)			
+eye_astigmatism	Astigmatism		ICD10:H52.20	HP:0000483	Astigmatism	MONDO:0011284	astigmatism (disease)			
+eye_blind	Blindness		ICD10:H54	HP:0000618	Blindness	MONDO:0001941	blindness (disorder)			Blindness and low vision
+eye_glaucoma	Glaucoma		ICD9:365.9	HP:0000501	Glaucoma	MONDO:0005041	glaucoma (disease)			Unspecified glaucoma
+eye_hyperopia	Hyperopia		ICD9:367.0	HP:0000540	Hypermetropia	MONDO:0004891	hyperopia			Hypermetropia
+eye_keratoconus	Keratoconus		ICD10:H18.6	HP:0000563	Keratoconus	MONDO:0015486	keratoconus (disease)			Keratoconus
+eye_myopia	Myopia		ICD9:367.1	HP:0000545	Myopia	MONDO:0001384	myopia			Myopia
+eye_nystagmus	Nystagmus		ICD9:379.50	HP:0000639	Nystagmus	MONDO:0004843	pathologic nystagmus			Nystagmus, unspecified
+eye_ptosis	Ptosis		ICD10:H02.4	HP:0000508	Ptosis	MONDO:0000728	ptosis			Ptosis of eyelid
+eye_strabismus	Strabismus		ICD10:H50.8	HP:0000486	Strabismus	MONDO:0003432	strabismus			Other specified strabismus
+female_other_status	[female_other_specify]		ICD10:E11							Non-insulin-dependent diabetes mellitus
+female_pcos_status	Polycystic ovary syndrome (PCOS)		ICD10:E28.2	HP:0000147	Polycystic ovaries	MONDO:0008487	polycystic ovary syndrome			Polycystic ovarian syndrome
+gi_celiac_status	Celiac disease		ICD10:K90.0	HP:0002608	Celiac disease	MONDO:0005130	celiac disease			Coeliac disease
+gi_diverticulitis_status	Diverticulitis		ICD10:K57			MONDO:0004235	diverticulitis			Diverticular disease of intestine
+gi_esophageal_atresia_status	Esophageal atresia		ICD10:Q39.0	HP:0002032	Esophageal atresia	MONDO:0001044	esophageal atresia			Atresia of oesophagus without fistula
+gi_gerd_status	Gastroesophageal reflux		ICD10:K21.9	HP:0002020	Gastroesophageal reflux	MONDO:0007186	gastroesophageal reflux disease			Gastro-oesophageal reflux disease without oesophagitis
+gi_hemorrhoids_status	HP_0032551		ICD9:455	HP:0032551	Hemorrhoids	MONDO:0004872	hemorrhoid			Hemorrhoids
+gi_hirschsprung_status	Hirschsprung disease		ICD10:Q43.1			MONDO:0018309	Hirschsprung disease			Hirschsprung's disease
+gi_ibs_status	Irritable bowel syndrome		ICD9:564.1			MONDO:0005052	irritable bowel syndrome			Irritable bowel syndrome
+gi_other_gi_status	[gi_other_specify]		ICD10:K92.9	HP:0025031	Abnormality of the digestive system	MONDO:0004335	digestive system disease			Disease of digestive system, unspecified
+gi_peptic_ulcers_status	Peptic ulcers		ICD9:533	HP:0004398	Peptic ulcer	MONDO:0004247	peptic ulcer disease			Peptic ulcer, site unspecified
+gi_pyloric_stenosis_status	Pyloric stenosis		ICD10:K31.1	HP:0002021	Pyloric stenosis	MONDO:0001561	pyloric stenosis			Adult hypertrophic pyloric stenosis
+heme_amkl_status	AMKL or AML-M7		ICD9:207.2	HP:0006733	Acute megakaryocytic leukemia	MONDO:0018872	acute megakaryoblastic leukemia			Megakaryocytic leukemia
+heme_aml_status	AML		ICD9:205.00	HP:0004808	Acute myeloid leukemia	MONDO:0018874	acute myeloid leukemia			Acute myeloid leukemia, without mention of having achieved remission
+heme_b_all_status	B-precursor ALL		ICD10:C83.5	HP:0004812	B Acute Lymphoblastic Leukemia	MONDO:0020511	precursor B-cell acute lymphoblastic leukemia			Lymphoblastic (diffuse) non-Hodgkin's lymphoma
+heme_cll_status	CLL		ICD9:208.10	HP:0005550	Chronic lymphatic leukemia	MONDO:0001014	chronic leukemia			Chronic leukemia of unspecified cell type, without mention of having achieved remission
+heme_leuk_rxn_status	Leukemoid reaction		ICD10:D72.823			MONDO:0006829	leukemoid reaction			
+heme_other_cancer_status	[heme_other_specify]		ICD10:D75.9	HP:0004377	Hematological neoplasm	MONDO:0044881	hematopoietic and lymphoid cell neoplasm			Disease of blood and blood-forming organs, unspecified
+heme_t_all_status	T-cell ALL		ICDO:9837/3	HP:0006727	T-cell acute lymphoblastic leukemia	MONDO:0004963	T-cell acute lymphoblastic leukemia			
+heme_tmd_status	TMD		ICD10:D47.7	HP:0005534	Transient myeloproliferative syndrome	MONDO:0008040	transient myeloproliferative syndrome			Other specified neoplasms of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue
+infection_c_diff_status	C. difficile		ICD10:A04.7	HP:0032168	Clostridium difficile colitis	MONDO:0000705	Clostridium difficile colitis			Enterocolitis due to Clostridium difficile
+infection_gout_status	Gout		ICD9:274.9	HP:0001997	Gout	MONDO:0005393	gout			Gout, unspecified
+infection_impetigo_status	Impetigo		ICD9:684			MONDO:0004592	impetigo			Impetigo
+infection_otitis_status	Recurrent otitis media		ICD9:382.9	HP:0000403	Recurrent otitis media	MONDO:0021204	chronic otitis media			Unspecified otitis media
+infection_periodontitis_status	Periodontitis		ICD10:K05.4	HP:0000704	Periodontitis	MONDO:0005076	periodontitis			Periodontosis
+infection_sinus_status	Recurrent sinusitis		ICD10:J01	HP:0011108	Recurrent sinusitis	MONDO:0006031	chronic rhinosinusitis			Acute sinusitis
+infection_uti_status	Chronic UTI		ICD10:N39.0			MONDO:0100338	urinary tract infection			Urinary tract infection, site not specified
+infection_zoster_status	Shingles		ICD9:053			MONDO:0005609	herpes zoster			Herpes zoster
+lymph_anemia_status	Anemia		ICD9:285.9	HP:0001903	Anemia	MONDO:0002280	anemia (disease)			Anemia, unspecified
+male_cancer_status	Testicular cancer		ICD10:C62.90			MONDO:0005447	testicular cancer			
+male_hypospadias_status	Hypospadias		ICD9:752.61	HP:0000047	Hypospadias	MONDO:0005345	hypospadias			Hypospadias
+male_phimosis_status	Phimosis		ICD10:N47.1	HP:0001741	Phimosis	MONDO:0006904	phimosis			
+male_testicles_status	Undescended testicles		ICD9:752.51	HP:0000028	Cryptorchidism	MONDO:0009047	cryptorchidism			Undescended testis
+neuro_alz_status	Alzheimer's disease		ICD10:G30.9	HP:0002511	Alzheimer disease	MONDO:0004975	Alzheimer disease			Alzheimer's disease, unspecified
+neuro_dementia_status	Dementia/Memory Loss		ICD9:290.8	HP:0000726	Dementia	MONDO:0001627	dementia			Other specified senile psychotic conditions
+neuro_epilepsy_status	Epilepsy		ICD9:345.91			MONDO:0005027	epilepsy			Epilepsy, unspecified, with intractable epilepsy
+neuro_other_status	[neuro_other_specify]		ICD10:G00.G99	HP:0000707	Abnormality of the nervous system	MONDO:0005071	nervous system disorder			
+neuro_palsy_status	Cerebral palsy		ICD10:G80	HP:0100021	Cerebral palsy	MONDO:0006497	cerebral palsy			Infantile cerebral palsy
+neuro_parkinson_status	Parkinson's disease/Parkinsonism		ICD9:332.0	HP:0001300	Parkinsonism	MONDO:0005180	Parkinson disease			Paralysis agitans
+psych_add_adhd_status	ADD or ADHD		ICD10:F90	HP:0007018	Attention deficit hyperactivity disorder	MONDO:0007743	attention deficit-hyperactivity disorder			Hyperkinetic disorders
+psych_anxiety_status	Anxiety		ICD9:300.09	HP:0000739	Anxiety	MONDO:0005618	anxiety disorder			Other anxiety states
+psych_autism_status	Autism		ICD9:299.0	HP:0000717	Autism	MONDO:0005260	autism			Autistic disorder
+psych_depression_status	Depression		ICD10:F32.9	HP:0000716	Depression	MONDO:0002050	depressive disorder			Depressive episode, unspecified
+psych_ocd_status	Obsessive Compulsive Disorder		ICD9:300.3	HP:0000722	Obsessive-compulsive behavior	MONDO:0008114	obsessive-compulsive disorder			Obsessive-compulsive disorders
+psych_odd_status	Oppositional Defiant disorder		ICD9:313.81	HP:0010865	Oppositional defiant disorder	MONDO:0000495	oppositional defiant disorder			Oppositional defiant disorder
+psych_other_status	[psych_other_specify]		ICD10:F99-F99	HP:0000708	Behavioral abnormality	MONDO:0002025	psychiatric disorder			
+psych_panic_status	Panic attacks		ICD9:300.01	HP:0025269	Panic attack	MONDO:0005383	panic disorder			Panic disorder without agoraphobia
+psych_ptsd_status	Post Traumatic Stress Disorder (PTSD)		ICD9:309.81	HP:0033676	Posttraumatic stress symptom	MONDO:0005146	post-traumatic stress disorder			Posttraumatic stress disorder
+psych_schizophrenia_status	Schizophrenia		ICD9:295.85	HP:0100753	Schizophrenia	MONDO:0005090	schizophrenia			Other specified types of schizophrenia, in remission
+pulm_asthma_status	Asthma		ICD10:J45	HP:0002099	Asthma	MONDO:0004979	asthma			Asthma
+pulm_other_specify_status	[pulm_other_specify]		ICD10:J96-J99	HP:0002086	Abnormality of the respiratory system	MONDO:0005087	respiratory system disease			
+pulm_pulm_hypertension_status	Pulmonary Hypertension		ICD10:I27.2	HP:0030875	Abnormality of pulmonary circulation	MONDO:0005149	pulmonary hypertension			
+pulm_rad_status	Reactive Airway Disease		ICD10:J45	HP:0002099	Asthma	MONDO:0100470	reactive airway disease			Asthma
+skel_arthritis_status	Arthritis / Arthropathy		ICD10:M00-M02	HP:0001369 HP:0003040	Arthritis Arthropathy	MONDO:0006816	arthropathy			
+skel_osteoarthritis_status	Osteoarthritis		ICD10:M19	HP:0002758	Osteoarthritis	MONDO:0005178	osteoarthritis			Other arthrosis
+skel_osteoporosis_status	Osteoporosis		ICD9:733.0	HP:0000939	Osteoporosis	MONDO:0005298	osteoporosis			Osteoporosis
+skel_scoliosis_status	Scoliosis or other spine curvature		ICD10:M41.9	HP:0010674	Abnormality of the curvature of the vertebral column	MONDO:0005392	scoliosis			Scoliosis, unspecified
+skin_acne_age	Acne		ICD10:L70	HP:0001061	Acne	MONDO:0011438	acne			Acne
+skin_acne_status	Acne		ICD10:L70	HP:0001061	Acne	MONDO:0011438	acne			Acne
+skin_alopecia_age	Alopecia areata		ICD9:704.01	HP:0002232	Patchy alopecia	MONDO:0005340	alopecia areata			Alopecia areata
+skin_alopecia_status	Alopecia areata		ICD9:704.01	HP:0002232	Patchy alopecia	MONDO:0005340	alopecia areata			Alopecia areata
+skin_athlete_status	Athlete's Foot		ICD10:B35.3			MONDO:0005984	tinea pedis			Tinea pedis
+skin_atopic_status	Atopic dermatitis/eczema		ICD10:L20.81	HP:0001047	Atopic dermatitis	MONDO:0004980	atopic eczema			
+skin_folliculitis_status	Folliculitis		ICD9:704.8	HP:0025084	Folliculitis	MONDO:0006552	folliculitis			Other specified diseases of hair and hair follicles
+skin_hidradenitis_status	Hidradenitis suppurativa		ICD10:L73.2	HP:0040154	Acne inversa	MONDO:0006559	hidradenitis suppurativa			Hidradenitis suppurativa
+skin_other_status	[skin_other_specify]		ICD9:702	HP:0000951	Abnormality of the skin	MONDO:0005093	skin disease			Other dermatoses
+skin_rosacea_status	Rosacea		ICD10:L71	HP:0001041	Facial erythema	MONDO:0006604	rosacea			Rosacea
+skin_seborrheic_status	Seborrheic Dermatitis		ICD9:706.3	HP:0001051	Seborrheic dermatitis	MONDO:0006608	seborrheic dermatitis (disease)			Seborrhea
+urogen_agenesis_status	Renal agenesis		ICD10:Q60.2	HP:0000104	Renal agenesis	MONDO:0018470	renal agenesis			Renal agenesis, unspecified
+urogen_hydroneph_status	Hydronephrosis		ICD10:N13.30	HP:0000126	Hydronephrosis	MONDO:0005510	hydronephrosis			
+urogen_other_status	[urogen_other_specify]		ICD10:N00.N99	HP:0000119	Abnormality of the genitourinary system	MONDO:0021145	disease of genitourinary system			
+urogen_reflux_status	Vesicoureteral reflux		ICD10:N13.70	HP:0000076	Vesicoureteral reflux	MONDO:0006007	vesicoureteral reflux			
